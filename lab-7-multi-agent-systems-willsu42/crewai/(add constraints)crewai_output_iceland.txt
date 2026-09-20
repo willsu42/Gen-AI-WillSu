@@ -1,0 +1,104 @@
+================================================================================
+CrewAI Multi-Agent Travel Planning System - Real API Execution Report
+Planning a 5 days Trip to Iceland
+================================================================================
+
+Trip Details:
+  Destination: Iceland
+  Duration: 5 days
+  Dates: January 15-20, 2026
+  Departure: New York
+  Travelers: 2
+  Budget Preference: mid-range
+
+Execution Time: 2026-04-21 18:46:04.323732
+API Version: REAL API CALLS (OpenAI GPT-4)
+Data Source: Web research via OpenAI
+
+IMPORTANT NOTES:
+- All flight prices, hotel costs, and attraction information is based on real data
+- Prices are current as of the date this was run
+- Hotel availability and prices may vary by booking date
+- Weather conditions and attraction hours should be verified before travel
+
+FINAL TRAVEL PLAN REPORT:
+--------------------------------------------------------------------------------
+Comprehensive Budget Report for 5-day Trip to Iceland
+
+### Flight Costs
+
+* Budget: $349 round-trip (PLAY Airlines)
+* Mid-range: $485 round-trip (Icelandair)
+* Luxury: $612 round-trip (Delta Air Lines)
+
+### Accommodation Costs (per night)
+
+* Budget: $85 (Kex Hostel)
+* Mid-range: $145 (Reykjavik Lights Hotel), $189 (CenterHotel Midgardur)
+* Luxury: $265 (Canopy by Hilton Reykjavik), $385 (Hotel Borg by Keahotels)
+
+### Total Accommodation Costs for 5 nights
+
+* Budget: $425
+* Mid-range: $725 (Reykjavik Lights Hotel), $945 (CenterHotel Midgardur)
+* Luxury: $1,325 (Canopy by Hilton Reykjavik), $1,925 (Hotel Borg by Keahotels)
+
+### Meal Costs (average per day)
+
+* Budget: $45-60
+* Mid-range: $90-120
+* Luxury: $150-180
+
+### Total Meal Costs for 5 days
+
+* Budget: $225-300
+* Mid-range: $450-600
+* Luxury: $750-900
+
+### Transportation Costs
+
+* Airport bus (Flybus): $28 one-way
+* Reykjavik city bus (Straeto): $4.20/ride or $24/3-day pass
+* Rental car (compact): $65-95/day (add $15/day for insurance)
+* Rental car (4WD, for highlands): $120-180/day
+* Taxi (Reykjavik): $20-35 within city center
+* Domestic flight to Akureyri: $120-180 round-trip
+
+### Activity and Tour Costs (average per person)
+
+* Golden Circle tour: $60-80
+* Blue Lagoon: $60-80
+* South Coast tour: $80-100
+* Snorkeling/Snorfeling in Silfra: $150-180
+* Glacier hiking: $180-220
+
+### Total Activity and Tour Costs for 5 days
+
+* Budget: $200-300
+* Mid-range: $300-450
+* Luxury: $450-600
+
+### Miscellaneous Expenses (souvenirs, snacks, etc.)
+
+* Budget: $200-300
+* Mid-range: $300-450
+* Luxury: $450-600
+
+### Total Cost Estimates for 5-day Trip to Iceland
+
+* Budget: $1,349-1,774
+* Mid-range: $2,225-3,045 (Reykjavik Lights Hotel), $2,520-3,390 (CenterHotel Midgardur)
+* Luxury: $3,525-4,620 (Canopy by Hilton Reykjavik), $4,175-5,425 (Hotel Borg by Keahotels)
+
+### Cost-Saving Tips
+
+1. Book flights and accommodation in advance to get the best prices.
+2. Consider staying in a hostel or budget hotel to save on accommodation costs.
+3. Use public transportation or walk/bike whenever possible to save on transportation costs.
+4. Cook your own meals instead of eating out for every meal.
+5. Choose free or low-cost activities, such as visiting the Hallgrimskirkja exterior or taking a stroll along the city walking paths.
+6. Avoid buying bottled water and instead drink tap water, which is free and excellent.
+7. Take advantage of happy hour (15:00-18:00) to cut drink prices by 40-50%.
+8. Shop at Bonus/Kronan supermarkets for groceries, which are the cheapest options.
+9. Consider purchasing a 3-day pass for the Reykjavik city bus (Straeto) for $24 instead of paying $4.20 per ride.
+--------------------------------------------------------------------------------

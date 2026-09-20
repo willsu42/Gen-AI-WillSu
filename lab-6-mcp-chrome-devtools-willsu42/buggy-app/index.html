@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Tracker Pro</title>
+    <link rel="icon" href="data:,">
+    <!-- BUG 3: Slow Resource Loading -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <!--link rel="stylesheet" href="https://httpstat.us/200?sleep=3000"-->
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- BUG 1-->
+        <header>
+            <img src="assets/logo1.png" alt="Task Tracker Logo" class="logo">
+            <h1>Task Tracker Pro</h1>
+            <p class="subtitle">Manage your tasks efficiently</p>
+        </header>
+
+        <main>
+            <div class="input-section">
+                <input
+                    type="text"
+                    id="taskInput"
+                    placeholder="Add a new task..."
+                    class="task-input"
+                >
+                <button id="addBtn" class="add-btn">Add Task</button>
+            </div>
+
+            <!-- BUG 4: CSS Layout Issue -->
+            <div class="task-list" id="taskList">
+                <p class="empty-message">No tasks yet. Add one to get started!</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Task Tracker Pro. Built with love.</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

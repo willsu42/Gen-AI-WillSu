@@ -1,0 +1,80 @@
+================================================================================
+CrewAI Multi-Agent Travel Planning System - Real API Execution Report
+Planning a 5 days Trip to Iceland
+================================================================================
+
+Trip Details:
+  Destination: Iceland
+  Duration: 5 days
+  Dates: January 15-20, 2026
+  Departure: New York
+  Travelers: 2
+  Budget Preference: mid-range
+
+Execution Time: 2026-04-21 18:52:38.352334
+API Version: REAL API CALLS (OpenAI GPT-4)
+Data Source: Web research via OpenAI
+
+IMPORTANT NOTES:
+- All flight prices, hotel costs, and attraction information is based on real data
+- Prices are current as of the date this was run
+- Hotel availability and prices may vary by booking date
+- Weather conditions and attraction hours should be verified before travel
+
+FINAL TRAVEL PLAN REPORT:
+--------------------------------------------------------------------------------
+Budget Report for 5-Day Iceland Trip
+
+Flights:
+- Budget: $349 round-trip (PLAY Airlines)
+- Mid-range: $485 round-trip (Icelandair)
+- Luxury: $612 round-trip (Delta Air Lines)
+
+Accommodation (4 nights):
+- Budget: $85/night (Kex Hostel) = $340 total
+- Mid-range: $189/night (CenterHotel Midgardur) = $756 total
+- Luxury: $265/night (Canopy by Hilton Reykjavik) = $1,060 total
+- Ultra Luxury: $385/night (Hotel Borg by Keahotels) = $1,540 total
+
+Meals (average cost per meal):
+- Budget: $15-25/meal
+- Mid-range: $30-50/meal
+- Fine dining: $80-150/meal
+Total meal cost for 5 days:
+- Budget: $45-75/day * 5 days = $225-375
+- Mid-range: $90-150/day * 5 days = $450-750
+- Luxury: $160-300/day * 5 days = $800-1,500
+
+Activities and Entrance Fees:
+- Hallgrimskirkja Church Tower: $12/person
+- Northern Lights Tour: $65/person
+- Golden Circle Tour: $85/person
+- South Coast & Black Sand Beach Tour: $95/person
+- Blue Lagoon: $75-115/person
+- Whale Watching Tour: $79/person
+Total activity cost for 5 days:
+- Budget: $12 + $65 + $85 + $95 + $75 + $79 = $411
+- Mid-range: same as budget
+- Luxury: same as budget
+
+Transportation:
+- Airport bus (Flybus): $28 one-way = $56 round-trip
+- Rental car (compact) for 5 days: $65-95/day * 5 days = $325-475
+- Gas for rental car: assume $50-100 for 5 days
+Total transportation cost for 5 days:
+- Budget: $56 (airport bus)
+- Mid-range: $325-475 (rental car) + $50-100 (gas) = $375-575
+- Luxury: $325-475 (rental car) + $50-100 (gas) = $375-575
+
+Total Cost Estimates for 5-Day Trip:
+- Budget: $349 (flights) + $340 (accommodation) + $225-375 (meals) + $411 (activities) + $56 (transportation) = $1,381-1,531
+- Mid-range: $485 (flights) + $756 (accommodation) + $450-750 (meals) + $411 (activities) + $375-575 (transportation) = $2,477-3,027
+- Luxury: $612 (flights) + $1,060 (accommodation) + $800-1,500 (meals) + $411 (activities) + $375-575 (transportation) = $3,258-4,047
+
+Cost-Saving Tips:
+1. Choose budget-friendly flights and accommodation options.
+2. Prepare own meals instead of eating out for every meal.
+3. Select free or low-cost activities, such as exploring Reykjavik city.
+4. Use public transportation or walk/bike whenever possible.
+5. Book tours and activities in advance to secure better prices.
+--------------------------------------------------------------------------------
